@@ -8,7 +8,7 @@
  *
  * Name: Yevhen Chernytskyi Student ID: 166613232 Date: Aug 8 2025
  *
- * Vercel App (Deployed) Link:
+ * Vercel App (Deployed) Link: https://web-a6-eta.vercel.app/
  *
  ********************************************************************************/
 
