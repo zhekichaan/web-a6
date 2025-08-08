@@ -4,7 +4,7 @@ import useSWR from "swr";
 
 import { useAtom } from "jotai";
 import { favouritesAtom } from "@/store";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { Button } from "react-bootstrap";
 
 import { addToFavourites, removeFromFavourites } from "@/lib/userData";
